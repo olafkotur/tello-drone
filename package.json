@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "tello-drone": "^3.0.4"
+  }
+}
